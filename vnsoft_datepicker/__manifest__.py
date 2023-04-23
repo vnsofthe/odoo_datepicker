@@ -5,7 +5,7 @@
     'version': '0.1',
     'category': 'hide',
     'sequence': 20,
-    'summary': 'Tools',
+    'summary': 'Add calendar selection plug-in function, you can limit the date selection range.',
     'description': """
 Add calendar selection plug-in function, you can limit the date selection range
 ==========================================
